@@ -114,4 +114,4 @@ Designed and implemented a highly available, secure, and scalable AWS architectu
 ## 👤 Author
 
 **Ashutosh Chaudhary**  
-Cloud Operations Engineer | AWS | Terraform | Monitoring | Incident Response  
+Cloud Operations Engineer | AWS | Terraform | Linux | 
